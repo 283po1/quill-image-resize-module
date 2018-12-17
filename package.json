@@ -1,7 +1,7 @@
 {
-  "name": "@wl5407/quill-image-resize-module",
-  "version": "3.0.8",
-  "description": "",
+  "name": "apexsoft-quill-image-resize-module",
+  "version": "3.0.1",
+  "description": "A module for Quill rich text editor to allow images to be resized.",
   "main": "image-resize.min.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -14,7 +14,7 @@
     "type": "git",
     "url": "git+https://github.com/283po1/quill-image-resize-module.git"
   },
-  "author": "wl5407",
+  "author": "apexsoft",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/283po1/quill-image-resize-module/issues"
@@ -39,5 +39,4 @@
     "quill": "^1.2.2",
     "raw-loader": "^0.5.1"
   }
-  
 }
